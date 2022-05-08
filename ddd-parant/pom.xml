@@ -25,6 +25,7 @@
     	<spring-cloud.version>Hoxton.SR12</spring-cloud.version>
     	<nacos-config.version>2.2.7.RELEASE</nacos-config.version>
     	<nacos-discovery.version>2.2.7.RELEASE</nacos-discovery.version>
+    	<dubbo.version>2.7.13</dubbo.version>
     	<sentinel.version>2.2.7.RELEASE</sentinel.version>
 		<mybatis-plus.version>3.5.1</mybatis-plus.version>
 	</properties>
